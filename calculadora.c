@@ -1,6 +1,11 @@
+// This is an Academic Project, and was published after finishing the lecture.
+// @author Joao Elvas @ FCT/UNL
+
+
 #include <stdio.h>  
 #include <stdlib.h>
 #include <string.h>
+
 
 #define MAX_SIZE 10
 
